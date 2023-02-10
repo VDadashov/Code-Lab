@@ -1,0 +1,13 @@
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.exe
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.deps.json
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.runtimeconfig.json
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.runtimeconfig.dev.json
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.dll
+C:\Users\vusalvd\source\repos\Lab\tasks\bin\Debug\netcoreapp3.1\tasks.pdb
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.AssemblyInfoInputs.cache
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.AssemblyInfo.cs
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.csproj.CoreCompileInputs.cache
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.dll
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.pdb
+C:\Users\vusalvd\source\repos\Lab\tasks\obj\Debug\netcoreapp3.1\tasks.genruntimeconfig.cache
